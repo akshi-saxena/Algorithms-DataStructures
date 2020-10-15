@@ -12,7 +12,7 @@ Performance analysis of following sorting algorithms:
     
     5. Quick Sort
     
-Searching Emails:
+Searching Emails Steps:
   
     1. Generate emails
     
