@@ -2,6 +2,8 @@
 
 Performance analysis of sorting algorithms:
   
+    Analyze following algorithms:
+    
     1. Bubble Sort
     
     2. Selection Sort
